@@ -1,0 +1,10 @@
+{
+	"create-app": {},
+	"build-widget": {
+		"widgets": [
+			"src/widgets/Foo",
+			"src/widgets/Bar",
+			"src/widgets/Qux"
+		]
+	}
+}
